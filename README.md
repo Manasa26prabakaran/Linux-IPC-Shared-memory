@@ -20,10 +20,6 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
-Developed by : THIRUMALAI V
-
-Register Number : 212223040229
-
 ## Write a C program that illustrates two processes communicating using shared memory.
 ~~~
 #include <stdio.h>
